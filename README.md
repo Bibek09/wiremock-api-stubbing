@@ -10,5 +10,6 @@ Bibeks-MacBook-:downloads bibekkhatiwara$ mv wiremock-jre8-standalone-2.28.1.jar
 Bibeks-MacBook-:downloads bibekkhatiwara$ cd wmock
 Bibeks-MacBook-:wmock bibekkhatiwara$ ls
 wiremock-jre8-standalone-2.28.1.jar
-Bibeks-MacBook-:wmock bibekkhatiwara$ 
+Bibeks-MacBook-:wmock bibekkhatiwara$ java -jar wiremock-jre8-standalone-2.28.1.jar --port 8080 --verbose
+
 
